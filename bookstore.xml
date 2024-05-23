@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book category="Fiction">
+        <title>The Great Gatsby</title>
+        <author>F. Scott Fitzgerald</author>
+        <year>1925</year>
+        <price>10.99</price>
+    </book>
+    <book category="Nonfiction">
+        <title>Sapiens: A Brief History of Humankind</title>
+        <author>Yuval Noah Harari</author>
+        <year>2011</year>
+        <price>15.99</price>
+    </book>
+    <book category="Science Fiction">
+        <title>Dune</title>
+        <author>Frank Herbert</author>
+        <year>1965</year>
+        <price>12.49</price>
+    </book>
+</bookstore>
