@@ -1,0 +1,27 @@
+{
+  "bookstore": {
+    "book": [
+      {
+        "category": "Fiction",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "price": 10.99
+      },
+      {
+        "category": "Nonfiction",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "year": 2011,
+        "price": 15.99
+      },
+      {
+        "category": "Science Fiction",
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "year": 1965,
+        "price": 12.49
+      }
+    ]
+  }
+}
